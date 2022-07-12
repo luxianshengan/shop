@@ -7,6 +7,7 @@ sdhfusdhuifhsduihfi duhfuisdahuidfhuiasdhsudhusdhjhfjhjkdhjkdhjhjhjhjkjksdhdshjk
 
 地方都是
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 这是main创建的额
@@ -14,3 +15,7 @@ sdhfusdhuifhsduihfi duhfuisdahuidfhuiasdhsudhusdhjhfjhjkdhjkdhjhjhjhjkjksdhdshjk
 
 12，这是在dev分支里改动的
 >>>>>>> dev
+=======
+这是main创建的额
+dfdf 
+>>>>>>> 4d012fc60460b99617a42e777f1975419b27da26
